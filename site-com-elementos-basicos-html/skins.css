@@ -1,0 +1,35 @@
+body{
+   background-color: pink;
+}
+
+#titulo{
+    text-align: center;
+}
+
+#Paragrafo{
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+td, th{
+    width: 150px;
+    padding-left: 50px;
+    text-align: center;
+}
+
+.nomes-tabela{
+    padding: auto;
+}
+
+.imagem{
+    width: 200px;
+    padding-top: 50px;
+}
+
+.nome-armas-leves{
+    padding-right: 0px;
+}
+
+#link{
+    color: black;
+}
